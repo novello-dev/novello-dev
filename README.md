@@ -29,6 +29,7 @@ I'm João Novello, an undergraduate tech student at <a href="https://www.unisuam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-novello)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joao.cunha@proeja.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/shedoulindo)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat-square)
 ![Mood](https://img.shields.io/badge/mood-coding-blue?style=flat)
 
