@@ -8,19 +8,24 @@ I'm João Novello, an undergraduate tech student at <a href="https://www.unisuam
 
 <img align='right' src="https://i.giphy.com/dZvFVEvLXI7E7bE8Lu.webp" width="250">
 
-### About me..
+### About me...
 
 ```json
 {
-  "name": "João Pedro",
-  "code": ["Python", "SQL", "HTML"],
-  "tools": ["Power BI", "Excel", "Git", "Pandas", "NumPy"],
-  "languages": {
-    "português": "Native",
-    "english": "Advanced/Fluent"
+  "name": "João Pedro Novello",
+  "role": "Backend Developer Student",
+  "skills": {
+    "main": ["Python", "SQL"],
+    "learning": ["HTML", "CSS"]
   },
-  "challenge": "100DaysOfCode"
+  "tools": ["Flask", "SQLite", "MySQL", "PostgreSQL", "Git"],
+  "languages": {
+    "portuguese": "Native",
+    "english": "Fluent"
+  },
+  "current_focus": "Building projects, doing challenges and learning more everyday!"
 }
+
 ```
 
 ---
