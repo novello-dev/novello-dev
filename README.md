@@ -23,7 +23,7 @@ I'm João Novello, an undergraduate tech student at <a href="https://www.unisuam
     "portuguese": "Native",
     "english": "Fluent"
   },
-  "current_focus": "Building projects, doing challenges and learning more everyday!"
+  "current_focus": "Building projects, doing challenges and learning everyday!"
 }
 
 ```
