@@ -1,7 +1,7 @@
 <h3 align="center"> Hello there 👋</h3>
 
 <p align="center">
-I'm João Novello, an undergraduate tech student at <a href="https://www.unisuam.edu.br/">UNISUAM</a>
+I'm João Pedro Novello, an undergraduate tech student at <a href="https://www.unisuam.edu.br/">UNISUAM</a>
 </p>
 
 ---
