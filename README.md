@@ -23,7 +23,7 @@ I'm João Pedro Novello, an undergraduate tech student at <a href="https://www.u
     "portuguese": "Native",
     "english": "Fluent"
   },
-  "current_focus": "Building projects, doing challenges and learning!"
+  "challenge": "#30NitesofCode"
 }
 
 ```
