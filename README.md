@@ -1,14 +1,15 @@
-<h3 align="center"> Hello there 👋</h3>
+
+<h3 align="center">João Pedro N.</h3>
+<p align="center"><i>Backend Developer Student • Python & SQL</i></p>
 
 <p align="center">
-I'm João Pedro Novello, an undergraduate tech student at <a href="https://www.unisuam.edu.br/">UNISUAM</a>
+I'm João Pedro, a backend development student focused on Python, SQL and building real projects that make me grow as a developer.
 </p>
 
 ---
 
-<img align='right' src="https://i.giphy.com/dZvFVEvLXI7E7bE8Lu.webp" width="250">
-
-### About me...
+📂 portfolio/  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── skills.json
 
 ```json
 {
@@ -30,18 +31,37 @@ I'm João Pedro Novello, an undergraduate tech student at <a href="https://www.u
 
 ---
 
-<em><b>I love connecting with all sorts of people!</b> If you want to talk about development or just have a nice chat, <b> I'll be happy to meet you!</b> </em>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-novello)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joao.cunha@proeja.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/novellodev)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat-square)
-![Mood](https://img.shields.io/badge/mood-coding-blue?style=flat)
+<h3 align="center">🤝 Let's connect!</h3>
+<p align="center"><i>If you're into dev, tech, or just a good chat — I'm here for it.</i></p>
 
-<p align="center">
-  <img src="https://i.imgur.com/EnQGQ3v.gif" width="120">
+<br>
+
+<!-- Redes sociais -->
+<a href="https://www.linkedin.com/in/joao-pedro-novello">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:joao.cunha@proeja.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://discordapp.com/users/novellodev">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<!-- Vibes -->
+<br>
+<img src="https://img.shields.io/badge/mood-coding-3B82F6?style=flat-square&labelColor=334155"/>
+<img src="https://img.shields.io/badge/learning-every%20day-10B981?style=flat-square&labelColor=334155"/>
+<img src="https://img.shields.io/badge/Brazil-🇧🇷-3B82F6?style=flat-square&labelColor=334155"/>
+<img src="https://img.shields.io/badge/Major%20League%20Hacking-%F0%9F%8F%86%20Participant-CA8A04?style=flat-square&labelColor=334155"/>
+
+<br><br>
+
+<img src="https://i.imgur.com/EnQGQ3v.gif" width="120"/>
+
+<p align="center" style="margin-top: -6px;">
+  <i>Thanks for stopping by!</i>
 </p>
 
-<p align="center">
-  <em><b>Thanks for stopping by! </em>
-</p>
+</div>
