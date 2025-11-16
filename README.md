@@ -43,16 +43,15 @@ I'm a backend development student focused on Python, SQL and building real proje
 
 <!-- Redes sociais -->
 <p align="center">
-<a href="https://www.linkedin.com/in/joao-pedro-novello"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:joao.cunha@proeja.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://discordapp.com/users/novellodev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/joao-pedro-novello"><img src="https://img.shields.io/badge/LinkedIn-41337a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:joao.cunha@proeja.com"><img src="https://img.shields.io/badge/Gmail-2b3a67?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://discordapp.com/users/novellodev"><img src="https://img.shields.io/badge/Discord-700d14?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <!-- Vibes -->
-<img src="https://img.shields.io/badge/mood-coding-3B82F6?style=flat-square&labelColor=334155"/>
-<img src="https://img.shields.io/badge/learning-every%20day-10B981?style=flat-square&labelColor=334155"/>
-<img src="https://img.shields.io/badge/Brazil-🇧🇷-3B82F6?style=flat-square&labelColor=334155"/>
-<img src="https://img.shields.io/badge/Major%20League%20Hacking-%F0%9F%8F%86%20Participant-CA8A04?style=flat-square&labelColor=334155"/>
+<img src="https://img.shields.io/badge/mood-coding-362b66?style=flat-square&labelColor=334155"/>
+<img src="https://img.shields.io/badge/Brazil-🇧🇷-222d52?style=flat-square&labelColor=334155"/>
+<img src="https://img.shields.io/badge/Major%20League%20Hacking-%F0%9F%8F%86%20Participant-5a0a10?style=flat-square&labelColor=334155"/>
 
 <br><br>
 
