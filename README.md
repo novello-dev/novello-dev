@@ -17,7 +17,7 @@ I'm a backend development student focused on Python, SQL and building real proje
   "role": "Backend Developer Student",
   "skills": {
     "main": ["Python", "SQL"],
-    "learning": ["HTML", "CSS"]
+    "learning": ["HTML", "CSS", "Linux"]
   },
   "tools": ["Flask", "SQLite", "MySQL", "PostgreSQL", "Git"],
   "languages": {
