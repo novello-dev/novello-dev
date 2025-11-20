@@ -22,7 +22,7 @@
 ---
 
 📂 **portfolio/**  
-  └── **skills.json**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── **skills.json**
 
 ```json
 {
