@@ -8,14 +8,15 @@
 <h1 align="center">João Pedro N.</h1>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-89B4FA?style=flat-square&logo=python&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/SQL-F38BA8?style=flat-square&logo=postgresql&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-B48EF0?style=flat-square&logo=git&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-D0B2F2?style=flat-square&logo=python&logoColor=23263A"/>
+  <img src="https://img.shields.io/badge/SQL-F4A3B4?style=flat-square&logo=postgresql&logoColor=23263A"/>
+  <img src="https://img.shields.io/badge/Git-9BBBF7?style=flat-square&logo=git&logoColor=23263A"/>
 </p>
 
 <p align="center">
-  Building real projects that make me grow as a developer.
+  <img src="https://readme-typing-svg.herokuapp.com?color=6E7681&center=true&vCenter=true&pause=2000&width=600&lines=Building+real+projects+that+make+me+grow+as+a+dev." alt="Typing SVG" />
 </p>
+
 </div>
 
 ---
@@ -47,7 +48,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 💬 Let's connect!
+### 💬 Let's connect
 *Open to collaborations, learning opportunities, and tech conversations.*
 
 [![Gmail](https://img.shields.io/badge/Gmail-F2CDCD?style=for-the-badge&logo=gmail&logoColor=23263A)](mailto:joao.cunha@proeja.com)
