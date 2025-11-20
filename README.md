@@ -34,7 +34,7 @@
   "tools": ["Flask", "SQLite", "MySQL", "PostgreSQL", "Git"],
   "languages": {
     "portuguese": "Native",
-    "english": "Fluent"
+    "english": "Fluent (C2 - EF SET)"
   }
 }
 ```
