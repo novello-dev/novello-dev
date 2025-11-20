@@ -60,9 +60,9 @@
 ### 🌱 Challenges
 Technologies I'm currently growing with.
 
-<img src="https://img.shields.io/badge/%20learning-Linux-B4BEFE?style=flat-square&labelColor=181825&color=94E2D5"/>
-<img src="https://img.shields.io/badge/%20learning-HTML-94E2D5?style=flat-square&labelColor=181825&color=A6E3A1"/>
-<img src="https://img.shields.io/badge/%20learning-CSS-A6E3A1?style=flat-square&labelColor=181825&color=F9E2AF"/>
+<img src="https://img.shields.io/badge/%20Learning-Linux-B4BEFE?style=flat-square&labelColor=181825&color=94E2D5"/>
+<img src="https://img.shields.io/badge/%20Learning-HTML-94E2D5?style=flat-square&labelColor=181825&color=A6E3A1"/>
+<img src="https://img.shields.io/badge/%20Learning-CSS-A6E3A1?style=flat-square&labelColor=181825&color=F9E2AF"/>
 <img src="https://img.shields.io/badge/30%20Nites%20of%20Code-Challenge-F9E2AF?style=flat-square&labelColor=181825&color=FAB387"/>
 <img src="https://img.shields.io/badge/MLH-Participant-FAB387?style=flat-square&labelColor=181825&color=F7D4DA"/>
 <img src="https://img.shields.io/badge/Arch%20Linux-Ricer%20in%20Training-F38BA8?style=flat-square&labelColor=181825&color=CBA6F7"/>
