@@ -2,29 +2,7 @@
   <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/name_header.svg" width="100%" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
-</div>
-</div>
-
-📂 **portfolio/**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── **skills.json**
-
-```json
-{
-  "name": "João Pedro Novello",
-  "role": "Backend Developer Student",
-  "skills": {
-    "main": ["Python", "SQL"],
-    "learning": ["Shell", "Linux", "HTML", "CSS"]
-  },
-  "tools": ["Flask", "SQLite", "MySQL", "PostgreSQL", "Git"],
-  "languages": {
-    "portuguese": "Native",
-    "english": "Fluent (C2 - EF SET)"
-  }
-}
-```
-
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/code.svg" width="100%" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
