@@ -1,42 +1,25 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/name_header.svg" width="100%" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/code.svg" width="100%" />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/name_header.svg" width="90%" />
+  <br><br>
+  <a href="https://github.com/novello-dev?tab=followers"><img src="https://img.shields.io/github/followers/novello-dev?color=b7bdf8&labelColor=363a4f&style=for-the-badge&logo=github&label=Followers" /></a>&nbsp;<a href="https://github.com/novello-dev/novello-dev/stargazers"><img src="https://img.shields.io/github/stars/novello-dev/novello-dev?color=f5a97f&labelColor=363a4f&style=for-the-badge&logo=github&label=Stars" /></a>&nbsp;<a href="https://github.com/novello-dev/novello-dev/commits"><img src="https://img.shields.io/github/last-commit/novello-dev/novello-dev?color=a6da95&labelColor=363a4f&style=for-the-badge&logo=github&label=Last%20Update" /></a>&nbsp;<img src="https://img.shields.io/badge/Rio_de_Janeiro-Brasil-74c7ec?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=363a4f" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/code.svg" width="80%" />
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="50%" valign="top">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/connect_header.svg" width="70%" />
+</div>
 
-### 💬 Let's connect
-*Open to collaborations, learning opportunities, and tech conversations.*
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-F2CDCD?style=for-the-badge&logo=gmail&logoColor=23263A)](mailto:joao.cunha@proeja.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=23263A)](https://www.linkedin.com/in/joao-pedro-novello)
-[![Discord](https://img.shields.io/badge/Discord-B4BEFE?style=for-the-badge&logo=discord&logoColor=23263A)](https://discordapp.com/users/novellodev)
+<div align="center">
+  <a href="https://discordapp.com/users/novello-dev" target="_blank"><img src="assets/discord.svg" alt="Discord" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/joao-pedro-novello" target="_blank"><img src="assets/linkedin.svg" alt="LinkedIn" height="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:joao.cunha@proeja.com" target="_blank"><img src="assets/e-mail.svg" alt="Email" height="80"/></a>
+</div>
 
-</td>
-<td align="center" width="50%" valign="top">
+<br><br>
 
-### 🌱 Challenges
-Technologies I'm currently growing with.
-
-<img src="https://img.shields.io/badge/%20Learning-Shell-B4BEFE?style=flat-square&labelColor=23263A&color=9BBBF7"/>
-<img src="https://img.shields.io/badge/%20Learning-Linux-B4BEFE?style=flat-square&labelColor=23263A&color=94E2D5"/>
-<img src="https://img.shields.io/badge/%20Learning-HTML-94E2D5?style=flat-square&labelColor=23263A&color=A6E3A1"/>
-<img src="https://img.shields.io/badge/%20Learning-CSS-A6E3A1?style=flat-square&labelColor=23263A&color=F9E2AF"/>
-<img src="https://img.shields.io/badge/30%20Nites%20of%20Code-Challenge-F9E2AF?style=flat-square&labelColor=23263A&color=FAB387"/>
-<img src="https://img.shields.io/badge/MLH-Participant-FAB387?style=flat-square&labelColor=23263A&color=F7D4DA"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center" style="margin-top: 80px;">
-  <sub><i>Styled with the Catppuccin palette 🎨</i></sub>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="80%" />
+  <br>
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/footnote.svg" width="60%" />
 </div>
