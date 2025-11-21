@@ -1,0 +1,72 @@
+<svg width="100%" height="624" viewBox="0 0 1120 624" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="skills.json catppuccin card">
+  <defs>
+    <!-- Perfect multi-layer soft shadow (VSCode-like) -->
+    <filter id="perfectShadow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="10" result="b1"/>
+      <feOffset dx="0" dy="4" in="b1" result="o1"/>
+      <feColorMatrix in="o1" type="matrix"
+        values="0 0 0 0 0.066
+                0 0 0 0 0.066
+                0 0 0 0 0.106
+                0 0 0 0.35 0" result="s1"/>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="20" result="b2"/>
+      <feOffset dx="0" dy="10" in="b2" result="o2"/>
+      <feColorMatrix in="o2" type="matrix"
+        values="0 0 0 0 0.02
+                0 0 0 0 0.02
+                0 0 0 0 0.04
+                0 0 0 0.22 0" result="s2"/>
+      <feMerge>
+        <feMergeNode in="s2"/>
+        <feMergeNode in="s1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- subtle inner highlight -->
+    <linearGradient id="innerSheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.00"/>
+    </linearGradient>
+
+    <!-- faint noise for texture -->
+    <filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.025"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <!-- Card -->
+  <rect x="16" y="16" width="1088" height="592"
+        rx="18" ry="18" fill="#1e1e2e" stroke="#313244" stroke-width="2"
+        filter="url(#perfectShadow)"/>
+
+  <!-- Inner layer + sheen -->
+  <rect x="20" y="20" width="1080" height="584"
+        rx="16" ry="16" fill="#181825" opacity="0.35"/>
+  <rect x="20" y="20" width="1080" height="584"
+        rx="16" ry="16" fill="url(#innerSheen)"/>
+  <rect x="20" y="20" width="1080" height="584"
+        rx="16" ry="16" filter="url(#noise)" opacity="0.35"/>
+
+  <!-- Top accent rainbow strip -->
+  <rect x="32.00" y="24" width="150.86" height="6" fill="#f5c2e7"/><rect x="182.86" y="24" width="150.86" height="6" fill="#cba6f7"/><rect x="333.71" y="24" width="150.86" height="6" fill="#89b4fa"/><rect x="484.57" y="24" width="150.86" height="6" fill="#94e2d5"/><rect x="635.43" y="24" width="150.86" height="6" fill="#a6e3a1"/><rect x="786.29" y="24" width="150.86" height="6" fill="#f9e2af"/><rect x="937.14" y="24" width="150.86" height="6" fill="#fab387"/>
+
+  <!-- Header: file path -->
+  <text x="56" y="58" font-family="JetBrains Mono, Fira Code, Consolas, monospace"
+        font-size="18" fill="#cdd6f4" opacity="0.9">
+    <tspan fill="#94e2d5">📁</tspan>
+    <tspan dx="6" fill="#cdd6f4"><tspan fill="#cba6f7">portfolio</tspan>/<tspan fill="#89b4fa">skills.json</tspan></tspan>
+  </text>
+
+  <!-- tiny decor dots top-right -->
+  <circle cx="1042" cy="52" r="4" fill="#cba6f7"/>
+  <circle cx="1056" cy="52" r="4" fill="#89b4fa"/>
+  <circle cx="1070" cy="52" r="4" fill="#94e2d5"/>
+
+  <!-- Code text -->
+  <text x="56" y="120" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#f38ba8">{</tspan></text><text x="56" y="156" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;name&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;João&#160;Pedro&#160;Novello&quot;</tspan><tspan fill="#9399b2">,</tspan></text><text x="56" y="192" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;role&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;Backend&#160;Developer&#160;Student&quot;</tspan><tspan fill="#9399b2">,</tspan></text><text x="56" y="228" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;skills&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#fab387">{</tspan></text><text x="56" y="264" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;main&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">&quot;Python&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;SQL&quot;</tspan><tspan fill="#cba6f7">]</tspan><tspan fill="#9399b2">,</tspan></text><text x="56" y="300" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;learning&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">&quot;Shell&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;Linux&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;HTML&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;CSS&quot;</tspan><tspan fill="#cba6f7">]</tspan></text><text x="56" y="336" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#fab387">}</tspan><tspan fill="#9399b2">,</tspan></text><text x="56" y="372" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;tools&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">&quot;Flask&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;SQLite&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;MySQL&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;PostgreSQL&quot;</tspan><tspan fill="#9399b2">,</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;Git&quot;</tspan><tspan fill="#cba6f7">]</tspan><tspan fill="#9399b2">,</tspan></text><text x="56" y="408" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;languages&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#fab387">{</tspan></text><text x="56" y="444" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;portuguese&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;Native&quot;</tspan><tspan fill="#9399b2">,</tspan></text><text x="56" y="480" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">&quot;english&quot;</tspan><tspan fill="#9399b2">:</tspan><tspan fill="#cdd6f4">&#160;</tspan><tspan fill="#f9e2af">&quot;Fluent&#160;(C2&#160;—&#160;EF&#160;SET)&quot;</tspan></text><text x="56" y="516" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#fab387">}</tspan></text><text x="56" y="552" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="22" font-weight="500"><tspan fill="#f38ba8">}</tspan></text>
+</svg>
