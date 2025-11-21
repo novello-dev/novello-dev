@@ -1,25 +1,10 @@
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/latte.png">
-  <img alt="Catppuccin Palette" src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/mocha.png" width="600">
-</picture>
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/name_header.svg" width="100%" />
 
-<h1 align="center">João Pedro N.</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-D0B2F2?style=flat-square&logo=python&logoColor=23263A"/>
-  <img src="https://img.shields.io/badge/SQL-F4A3B4?style=flat-square&logo=postgresql&logoColor=23263A"/>
-  <img src="https://img.shields.io/badge/Git-9BBBF7?style=flat-square&logo=git&logoColor=23263A"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6E7681&center=true&vCenter=true&pause=2000&width=600&lines=Building+real+projects+that+make+me+grow+as+a+dev." alt="Typing SVG" />
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
 </div>
-
----
+</div>
 
 📂 **portfolio/**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── **skills.json**
@@ -39,6 +24,7 @@
   }
 }
 ```
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" />
