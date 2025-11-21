@@ -1,36 +1,35 @@
-<svg width="100%" height="44" viewBox="0 0 520 44" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Styled with the Catppuccin palette">
+<svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- sombra suave -->
-    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="1.5" stdDeviation="1.6" flood-color="#11111b" flood-opacity="0.7"/>
-    </filter>
-
-    <!-- gradiente bem sutil no pill -->
-    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#1e1e2e"/>
-      <stop offset="100%" stop-color="#181825"/>
-    </linearGradient>
+    <linearGradient id="catRainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f38ba8"/> <stop offset="20%" stop-color="#fab387"/> <stop offset="40%" stop-color="#f9e2af"/> <stop offset="60%" stop-color="#a6e3a1"/> <stop offset="80%" stop-color="#89b4fa"/> <stop offset="100%" stop-color="#cba6f7"/> </linearGradient>
+    
+    <style>
+      .text {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 14px;
+        fill: #a6adc8; /* Subtext color */
+        font-weight: 500;
+      }
+      .heart {
+        fill: #f38ba8; /* Red for heart */
+        animation: pulse 2s infinite;
+      }
+      @keyframes pulse {
+        0% { opacity: 0.7; transform: scale(1); transform-origin: center; }
+        50% { opacity: 1; transform: scale(1.1); transform-origin: center; }
+        100% { opacity: 0.7; transform: scale(1); transform-origin: center; }
+      }
+    </style>
   </defs>
 
-  <!-- pill -->
-  <rect x="8" y="6" width="504" height="32" rx="10" ry="10"
-        fill="url(#pillGrad)" filter="url(#softShadow)"/>
-  <rect x="8" y="6" width="504" height="32" rx="10" ry="10"
-        fill="none" stroke="#313244" stroke-width="1.4"/>
+  <rect width="100%" height="100%" fill="#1e1e2e" rx="0" opacity="0"/>
 
-  <!-- mini strip catppuccin à esquerda -->
-  <g transform="translate(22,16)">
-    <rect width="7" height="12" rx="3" fill="#f5e0dc"/>
-    <rect x="8"  width="7" height="12" rx="3" fill="#f2cdcd"/>
-    <rect x="16" width="7" height="12" rx="3" fill="#f5c2e7"/>
-    <rect x="24" width="7" height="12" rx="3" fill="#cba6f7"/>
-    <rect x="32" width="7" height="12" rx="3" fill="#89b4fa"/>
-  </g>
-
-  <!-- texto -->
-  <text x="50%" y="22" text-anchor="middle" dominant-baseline="middle"
-        font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-        font-size="15.5" font-weight="600" fill="#cdd6f4" letter-spacing="0.2">
-    Styled with the Catppuccin palette 🎨
+  <text x="50%" y="35" text-anchor="middle" class="text">
+    Designed with <tspan class="heart">❤</tspan> &amp; <tspan fill="#cdd6f4" font-weight="bold">Catppuccin</tspan>
   </text>
+
+  <path d="M250 55 L550 55" stroke="url(#catRainbow)" stroke-width="3" stroke-linecap="round" opacity="0.8" />
+  
+  <path d="M250 55 L550 55" stroke="url(#catRainbow)" stroke-width="8" stroke-linecap="round" opacity="0.2" filter="blur(4px)" />
+
 </svg>
