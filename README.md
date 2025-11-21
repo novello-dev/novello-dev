@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/name_header.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/name_header.svg" width="100%" />
   <br><br>
   <a href="https://github.com/novello-dev?tab=followers"><img src="https://img.shields.io/github/followers/novello-dev?color=b7bdf8&labelColor=363a4f&style=for-the-badge&logo=github&label=Followers" /></a>&nbsp;<a href="https://github.com/novello-dev/novello-dev/stargazers"><img src="https://img.shields.io/github/stars/novello-dev/novello-dev?color=f5a97f&labelColor=363a4f&style=for-the-badge&logo=github&label=Stars" /></a>&nbsp;<a href="https://github.com/novello-dev/novello-dev/commits"><img src="https://img.shields.io/github/last-commit/novello-dev/novello-dev?color=a6da95&labelColor=363a4f&style=for-the-badge&logo=github&label=Last%20Update" /></a>&nbsp;<img src="https://img.shields.io/badge/Rio_de_Janeiro-Brasil-74c7ec?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=363a4f" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/code.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/code.svg" width="90%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/connect_header.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/connect_header.svg" width="80%" />
 </div>
 
 <br>
