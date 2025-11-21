@@ -1,0 +1,24 @@
+<svg width="100%" height="28" viewBox="0 0 600 28"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Connect with me">
+  <defs>
+    <!-- underline curto, suave -->
+    <linearGradient id="ctpLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"  stop-color="#cba6f7" stop-opacity="0.0"/>
+      <stop offset="20%" stop-color="#cba6f7" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#94e2d5" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#89b4fa" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#89b4fa" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- texto -->
+  <text x="50%" y="11.5" text-anchor="middle" dominant-baseline="middle"
+        font-family="JetBrains Mono, 'Fira Code', Consolas, monospace"
+        font-size="14.5" font-weight="700" letter-spacing="0.6"
+        fill="#cdd6f4">
+    Connect with me
+  </text>
+
+  <!-- underline curtinho central -->
+  <rect x="210" y="20.5" width="180" height="2.2" rx="1.1" fill="url(#ctpLine)"/>
+</svg>
