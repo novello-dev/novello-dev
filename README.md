@@ -68,7 +68,6 @@ Technologies I'm currently growing with.
 <img src="https://img.shields.io/badge/%20Learning-CSS-A6E3A1?style=flat-square&labelColor=23263A&color=F9E2AF"/>
 <img src="https://img.shields.io/badge/30%20Nites%20of%20Code-Challenge-F9E2AF?style=flat-square&labelColor=23263A&color=FAB387"/>
 <img src="https://img.shields.io/badge/MLH-Participant-FAB387?style=flat-square&labelColor=23263A&color=F7D4DA"/>
-<img src="https://img.shields.io/badge/Arch%20Linux-Ricer%20in%20Training-F38BA8?style=flat-square&labelColor=23263A&color=CBA6F7"/>
 
 </td>
 </tr>
