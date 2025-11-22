@@ -1,35 +1,12 @@
-<svg width="100%" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="catRainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f38ba8"/> <stop offset="20%" stop-color="#fab387"/> <stop offset="40%" stop-color="#f9e2af"/> <stop offset="60%" stop-color="#a6e3a1"/> <stop offset="80%" stop-color="#89b4fa"/> <stop offset="100%" stop-color="#cba6f7"/> </linearGradient>
-    
     <style>
-      .text {
-        font-family: 'JetBrains Mono', monospace;
-        font-size: 14px;
-        fill: #a6adc8; /* Subtext color */
-        font-weight: 500;
-      }
-      .heart {
-        fill: #f38ba8; /* Red for heart */
-        animation: pulse 2s infinite;
-      }
-      @keyframes pulse {
-        0% { opacity: 0.7; transform: scale(1); transform-origin: center; }
-        50% { opacity: 1; transform: scale(1.1); transform-origin: center; }
-        100% { opacity: 0.7; transform: scale(1); transform-origin: center; }
-      }
+      text { font-family: "JetBrains Mono"; fill: #cdd6f4; font-size: 14px; opacity: .85; }
+      .dot { fill: #cba6f7; }
     </style>
   </defs>
 
-  <rect width="100%" height="100%" fill="#1e1e2e" rx="0" opacity="0"/>
-
-  <text x="50%" y="35" text-anchor="middle" class="text">
-    Designed with <tspan class="heart">❤</tspan> &amp; <tspan fill="#cdd6f4" font-weight="bold">Catppuccin</tspan>
+  <text x="50%" y="40" text-anchor="middle">
+    built with care <tspan class="dot">•</tspan> catppuccin powered
   </text>
-
-  <path d="M250 55 L550 55" stroke="url(#catRainbow)" stroke-width="3" stroke-linecap="round" opacity="0.8" />
-  
-  <path d="M250 55 L550 55" stroke="url(#catRainbow)" stroke-width="8" stroke-linecap="round" opacity="0.2" filter="blur(4px)" />
-
 </svg>
