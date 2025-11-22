@@ -37,6 +37,6 @@
   <rect x="80" y="18" width="740" height="12" fill="url(#catppuccinBar)" clip-path="url(#roundedBar)"/>
   
   <text x="450" y="91" text-anchor="middle" dominant-baseline="middle" font-family="JetBrains Mono, 'Fira Code', Consolas, monospace" font-size="42" font-weight="800" letter-spacing="1.2" filter="url(#softGlow)">
-    <tspan fill="#89b4fa">"name"</tspan><tspan fill="#cdd6f4">:</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">"J</tspan><tspan fill="#f9e2af">o</tspan><tspan fill="#f9e2af">ã</tspan><tspan fill="#f9e2af">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">P</tspan><tspan fill="#f9e2af">e</tspan><tspan fill="#f9e2af">d</tspan><tspan fill="#f9e2af">r</tspan><tspan fill="#f9e2af">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">N</tspan><tspan fill="#f9e2af">.</tspan><tspan fill="#f9e2af">"</tspan>
+    <tspan fill="#89b4fa">"name"</tspan><tspan fill="#cdd6f4">:</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">"J</tspan><tspan fill="#f9e2af">o</tspan><tspan fill="#f9e2af">ã</tspan><tspan fill="#f9e2af">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">P</tspan><tspan fill="#f9e2af">e</tspan><tspan fill="#f9e2af">d</tspan><tspan fill="#f9e2af">r</tspan><tspan fill="#f9e2af">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">N</tspan><tspan fill="#f9e2af">.</tspan><tspan fill="#f9e2af">"</tspan><tspan fill="#cdd6f4">,</tspan>
   </text>
 </svg>
