@@ -6,10 +6,6 @@
   <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/code.svg" width="90%" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/connect_header.svg" width="80%" />
-</div>
-
 <br>
 
 <div align="center">
