@@ -13,7 +13,7 @@
       <rect x="80" y="18" width="740" height="12" rx="6" ry="6"/>
     </clipPath>
 
-    <linearGradient id="catppuccinBar" x1="0%" y1="0%" x2="100%" y2="0%">
+     <linearGradient id="catppuccinBar" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f5e0dc"/>       <stop offset="7.1428%" stop-color="#f5e0dc"/>
       <stop offset="7.1428%" stop-color="#f2cdcd"/>  <stop offset="14.2857%" stop-color="#f2cdcd"/>
       <stop offset="14.2857%" stop-color="#f5c2e7"/> <stop offset="21.4286%" stop-color="#f5c2e7"/>
@@ -21,7 +21,7 @@
       <stop offset="28.5714%" stop-color="#f38ba8"/> <stop offset="35.7143%" stop-color="#f38ba8"/>
       <stop offset="35.7143%" stop-color="#eba0ac"/> <stop offset="42.8571%" stop-color="#eba0ac"/>
       <stop offset="42.8571%" stop-color="#fab387"/> <stop offset="50%" stop-color="#fab387"/>
-      <stop offset="50%" stop-color="#f9e2af"/>      <stop offset="57.1429%" stop-color="#f9e2af"/>
+      <stop offset="50%" stop-color="#f9e2af"/>       <stop offset="57.1429%" stop-color="#f9e2af"/>
       <stop offset="57.1429%" stop-color="#a6e3a1"/> <stop offset="64.2857%" stop-color="#a6e3a1"/>
       <stop offset="64.2857%" stop-color="#94e2d5"/> <stop offset="71.4286%" stop-color="#94e2d5"/>
       <stop offset="71.4286%" stop-color="#89dceb"/> <stop offset="78.5714%" stop-color="#89dceb"/>
@@ -37,6 +37,6 @@
   <rect x="80" y="18" width="740" height="12" fill="url(#catppuccinBar)" clip-path="url(#roundedBar)"/>
   
   <text x="450" y="91" text-anchor="middle" dominant-baseline="middle" font-family="JetBrains Mono, 'Fira Code', Consolas, monospace" font-size="54" font-weight="800" letter-spacing="1.2" filter="url(#softGlow)">
-    <tspan fill="#f5e0dc">J</tspan><tspan fill="#f2cdcd">o</tspan><tspan fill="#f5c2e7">ã</tspan><tspan fill="#cba6f7">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#eba0ac">P</tspan><tspan fill="#f9e2af">e</tspan><tspan fill="#a6e3a1">d</tspan><tspan fill="#94e2d5">r</tspan><tspan fill="#89dceb">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#89b4fa">N</tspan><tspan fill="#b4befe">.</tspan>
+    <tspan fill="#cdd6f4">J</tspan><tspan fill="#cdd6f4">o</tspan><tspan fill="#cdd6f4">ã</tspan><tspan fill="#b4befe">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#b4befe">P</tspan><tspan fill="#b4befe">e</tspan><tspan fill="#b4befe">d</tspan><tspan fill="#b4befe">r</tspan><tspan fill="#89b4fa">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#89b4fa">N</tspan><tspan fill="#89b4fa">.</tspan>
   </text>
 </svg>
