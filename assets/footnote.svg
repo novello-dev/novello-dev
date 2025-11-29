@@ -1,0 +1,33 @@
+<svg width="100%" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&amp;display=swap');
+
+      .text { 
+        font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+        font-size: 14px; 
+        opacity: .9; 
+        font-weight: 500;
+        letter-spacing: 0.5px;
+        fill: #4c4f69;
+      }
+      
+      .dot { fill: #8839ef; }
+
+      @media (prefers-color-scheme: dark) {
+        .text { fill: #cdd6f4 !important; }
+        .dot { fill: #cba6f7 !important; }
+      }
+    </style>
+  </defs>
+
+  <text x="47%" y="50%" dx="-15" text-anchor="end" dominant-baseline="middle" class="text">
+    brewed with care
+  </text>
+
+  <circle cx="47%" cy="50%" r="3" class="dot" />
+
+  <text x="47%" y="50%" dx="15" text-anchor="start" dominant-baseline="middle" class="text">
+    catppuccin flavored (MIT)
+  </text>
+</svg>

@@ -1,0 +1,42 @@
+<svg width="100%" height="132" viewBox="0 0 900 132" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="João Pedro N.">
+  <defs>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.8" result="blur"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.85 0" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.2" flood-color="#11111b" flood-opacity="0.8"/>
+    </filter>
+
+    <clipPath id="roundedBar">
+      <rect x="80" y="18" width="740" height="12" rx="6" ry="6"/>
+    </clipPath>
+
+     <linearGradient id="catppuccinBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5e0dc"/>       <stop offset="7.1428%" stop-color="#f5e0dc"/>
+      <stop offset="7.1428%" stop-color="#f2cdcd"/>  <stop offset="14.2857%" stop-color="#f2cdcd"/>
+      <stop offset="14.2857%" stop-color="#f5c2e7"/> <stop offset="21.4286%" stop-color="#f5c2e7"/>
+      <stop offset="21.4286%" stop-color="#cba6f7"/> <stop offset="28.5714%" stop-color="#cba6f7"/>
+      <stop offset="28.5714%" stop-color="#f38ba8"/> <stop offset="35.7143%" stop-color="#f38ba8"/>
+      <stop offset="35.7143%" stop-color="#eba0ac"/> <stop offset="42.8571%" stop-color="#eba0ac"/>
+      <stop offset="42.8571%" stop-color="#fab387"/> <stop offset="50%" stop-color="#fab387"/>
+      <stop offset="50%" stop-color="#f9e2af"/>       <stop offset="57.1429%" stop-color="#f9e2af"/>
+      <stop offset="57.1429%" stop-color="#a6e3a1"/> <stop offset="64.2857%" stop-color="#a6e3a1"/>
+      <stop offset="64.2857%" stop-color="#94e2d5"/> <stop offset="71.4286%" stop-color="#94e2d5"/>
+      <stop offset="71.4286%" stop-color="#89dceb"/> <stop offset="78.5714%" stop-color="#89dceb"/>
+      <stop offset="78.5714%" stop-color="#74c7ec"/> <stop offset="85.7143%" stop-color="#74c7ec"/>
+      <stop offset="85.7143%" stop-color="#89b4fa"/> <stop offset="92.8571%" stop-color="#89b4fa"/>
+      <stop offset="92.8571%" stop-color="#b4befe"/> <stop offset="100%" stop-color="#b4befe"/>
+    </linearGradient>
+  </defs>
+  
+  <rect x="80" y="44" width="740" height="86" rx="18" ry="18" fill="#1e1e2e" filter="url(#shadow)"/>
+  <rect x="80" y="44" width="740" height="86" rx="18" ry="18" fill="none" stroke="#313244" stroke-width="2"/>
+  
+  <rect x="80" y="18" width="740" height="12" fill="url(#catppuccinBar)" clip-path="url(#roundedBar)"/>
+  
+  <text x="450" y="91" text-anchor="middle" dominant-baseline="middle" font-family="JetBrains Mono, 'Fira Code', Consolas, monospace" font-size="42" font-weight="800" letter-spacing="1.2" filter="url(#softGlow)">
+    <tspan fill="#89b4fa">"name"</tspan><tspan fill="#cdd6f4">:</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">"J</tspan><tspan fill="#f9e2af">o</tspan><tspan fill="#f9e2af">ã</tspan><tspan fill="#f9e2af">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">P</tspan><tspan fill="#f9e2af">e</tspan><tspan fill="#f9e2af">d</tspan><tspan fill="#f9e2af">r</tspan><tspan fill="#f9e2af">o</tspan><tspan xml:space="preserve"> </tspan><tspan fill="#f9e2af">N</tspan><tspan fill="#f9e2af">.</tspan><tspan fill="#f9e2af">"</tspan><tspan fill="#cdd6f4">,</tspan>
+  </text>
+</svg>

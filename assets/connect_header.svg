@@ -1,0 +1,40 @@
+<svg width="100%" height="90" viewBox="0 0 800 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;display=swap');
+      .code { font-family: 'JetBrains Mono', monospace; font-weight: 700; }
+    </style>
+    <filter id="widgetShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#11111b" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Card -->
+  <rect x="140" y="15" width="520" height="60" rx="12" fill="#1e1e2e" stroke="#45475a" stroke-width="2" filter="url(#widgetShadow)"/>
+
+  <!-- Local coords -->
+  <g transform="translate(140, 15)">
+
+    <!-- Left prompt icon: geometric center (top = 20) -->
+    <g transform="translate(30, 20)">
+      <rect x="0" y="2" width="3" height="16" rx="1.5" fill="#cba6f7" opacity="0.6"/>
+      <path d="M 10 0 L 20 10 L 10 20" stroke="#cba6f7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <!-- Text: center + optical correction down (31) -->
+    <text x="75" y="31" class="code" font-size="20" fill="#cdd6f4" letter-spacing="-0.5"
+          dominant-baseline="middle">
+      ./init_connection.sh
+    </text>
+
+    <!-- Color bars: aligned to text optical center (top = 21) -->
+    <g transform="translate(398, 21)">
+      <rect x="0"  y="0" width="12" height="20" fill="#f38ba8" rx="2"/>
+      <rect x="20" y="0" width="12" height="20" fill="#fab387" rx="2"/>
+      <rect x="40" y="0" width="12" height="20" fill="#f9e2af" rx="2"/>
+      <rect x="60" y="0" width="12" height="20" fill="#a6e3a1" rx="2"/>
+      <rect x="80" y="0" width="12" height="20" fill="#89b4fa" rx="2"/>
+    </g>
+
+  </g>
+</svg>

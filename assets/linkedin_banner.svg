@@ -1,0 +1,180 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Final Banner - João Pedro Novello">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700;800&display=swap');
+      .mono { font-family: 'JetBrains Mono', monospace; }
+
+      .text-h1 { font-size: 54px; font-weight: 800; fill: #cdd6f4; }
+      .text-med { font-size: 28px; font-weight: 700; fill: #bac2de; }
+
+      .text-term { font-size: 19px; font-weight: 600; fill:#a6adc8; }
+
+      .text-badge { font-size: 22px; font-weight: 800; }
+
+      .text-footer { font-size: 14px; font-weight: 500; fill: #cdd6f4; letter-spacing: .5px; opacity: .9; }
+
+      .bg-base { fill: #1e1e2e; }
+      .bg-mantle { fill: #181825; }
+      .bg-crust { fill: #11111b; }
+
+      .acc-mauve { fill: #cba6f7; }
+      .acc-blue { fill: #89b4fa; }
+      .acc-sapphire { fill: #74c7ec; }
+      .acc-green { fill: #a6e3a1; }
+      .acc-yellow { fill: #f9e2af; }
+      .acc-peach { fill: #fab387; }
+      .acc-red { fill: #f38ba8; }
+
+      .stroke-surface { stroke: #45475a; stroke-width: 2; }
+      .stroke-focus-mauve { stroke: #cba6f7; stroke-width: 2; }
+    </style>
+
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#313244" opacity="0.35"/>
+    </pattern>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="50%">
+      <stop offset="55%" stop-color="#1e1e2e" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#11111b" stop-opacity=".8"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1584" height="396" class="bg-base"/>
+  <rect width="1584" height="396" fill="url(#dots)"/>
+  <rect width="1584" height="396" fill="url(#vignette)"/>
+
+  <g transform="translate(42,0)">
+    <rect x="0" y="24" width="210" height="8" rx="4" class="acc-mauve"/>
+    <rect x="215" y="24" width="210" height="8" rx="4" class="acc-blue"/>
+    <rect x="430" y="24" width="210" height="8" rx="4" class="acc-sapphire"/>
+    <rect x="645" y="24" width="210" height="8" rx="4" class="acc-green"/>
+    <rect x="860" y="24" width="210" height="8" rx="4" class="acc-yellow"/>
+    <rect x="1075" y="24" width="210" height="8" rx="4" class="acc-peach"/>
+    <rect x="1290" y="24" width="210" height="8" rx="4" class="acc-red"/>
+  </g>
+
+  <g transform="translate(83,104)">
+    <text class="mono text-h1">João Pedro Novello</text>
+    <text y="48" class="mono text-med">Backend Developer</text>
+  </g>
+
+  <g transform="translate(400,150)">
+    <g>
+      <rect width="160" height="59" rx="12" class="bg-mantle stroke-surface"/>
+      <text x="80" y="37" class="mono text-badge acc-mauve" text-anchor="middle">Python</text>
+    </g>
+    <g transform="translate(0,68)">
+      <rect width="160" height="59" rx="12" class="bg-mantle stroke-surface"/>
+      <text x="80" y="37" class="mono text-badge acc-sapphire" text-anchor="middle">Linux</text>
+    </g>
+    <g transform="translate(0,136)">
+      <rect width="160" height="59" rx="12" class="bg-mantle stroke-surface"/>
+      <text x="80" y="37" class="mono text-badge acc-yellow" text-anchor="middle">Docker</text>
+    </g>
+
+    <g transform="translate(180,0)">
+      <rect width="160" height="59" rx="12" class="bg-mantle stroke-surface"/>
+      <text x="80" y="37" class="mono text-badge acc-blue" text-anchor="middle">SQL</text>
+    </g>
+    <g transform="translate(180,68)">
+      <rect width="160" height="59" rx="12" class="bg-mantle stroke-surface"/>
+      <text x="80" y="37" class="mono text-badge acc-green" text-anchor="middle">Flask</text>
+    </g>
+    <g transform="translate(180,136)">
+      <rect width="160" height="59" rx="12" class="bg-mantle stroke-surface"/>
+      <text x="80" y="37" class="mono text-badge acc-peach" text-anchor="middle">Git</text>
+    </g>
+  </g>
+
+  <g transform="translate(781,75)">
+    <rect width="380" height="270" rx="12" class="bg-mantle stroke-surface"/>
+    <rect x="6" y="38" width="368" height="226" rx="10" class="bg-crust" opacity=".55"/>
+
+    <g transform="translate(15,24)">
+      <text class="mono text-badge" font-size="14">
+        <tspan fill="#74c7ec">novello-dev@desktop</tspan>
+      </text>
+
+      <g transform="translate(280,-4)">
+        <circle cx="10" cy="0" r="7" class="acc-mauve"/>
+        <circle cx="32" cy="0" r="7" class="acc-blue"/>
+        <circle cx="54" cy="0" r="7" class="acc-sapphire"/>
+      </g>
+    </g>
+
+    <g transform="translate(25,85)">
+      <g transform="translate(-8,15)">
+        <text class="mono acc-mauve" font-size="20" font-weight="800" xml:space="preserve">
+          <tspan x="0" y="0">  ／ᶩ、</tspan>
+          <tspan x="0" dy="1.4em">（ﾟ､ ｡ ７</tspan>
+          <tspan x="0" dy="1.4em">  ᶩ  ~ヽ</tspan>
+          <tspan x="0" dy="1.4em">  じしf_,)ノ</tspan>
+        </text>
+      </g>
+
+      <g transform="translate(150,0)">
+        <text class="mono text-term"><tspan fill="#a6e3a1" font-weight="800">OS</tspan>: Arch Linux</text>
+        <text class="mono text-term" y="28"><tspan fill="#f9e2af" font-weight="800">WM</tspan>: Hyprland</text>
+        <text class="mono text-term" y="56"><tspan fill="#89b4fa" font-weight="800">IDE</tspan>: Neovim</text>
+        <text class="mono text-term" y="84"><tspan fill="#74c7ec" font-weight="800">Zone</tspan>: UTC-3</text>
+
+        <g transform="translate(0,108)">
+          <rect x="0" y="0" width="12" height="12" rx="2" class="acc-mauve"/>
+          <rect x="16" y="0" width="12" height="12" rx="2" class="acc-blue"/>
+          <rect x="32" y="0" width="12" height="12" rx="2" class="acc-sapphire"/>
+          <rect x="48" y="0" width="12" height="12" rx="2" class="acc-green"/>
+          <rect x="64" y="0" width="12" height="12" rx="2" class="acc-yellow"/>
+          <rect x="80" y="0" width="12" height="12" rx="2" class="acc-peach"/>
+          <rect x="96" y="0" width="12" height="12" rx="2" class="acc-red"/>
+        </g>
+      </g>
+
+      <text x="0" y="160" class="mono text-term">
+        <tspan class="acc-red">➜</tspan> <tspan class="acc-blue">~</tspan> _
+      </text>
+    </g>
+  </g>
+
+  <g transform="translate(1171,75)">
+    <rect width="330" height="270" rx="12" fill="#181825" class="stroke-focus-mauve"/>
+    <rect x="6" y="38" width="318" height="226" rx="10" class="bg-crust" opacity=".55"/>
+
+    <g transform="translate(15,24)">
+      <text class="mono text-badge" font-size="14" fill="#f9e2af">
+        <tspan fill="#89b4fa">~</tspan>/status
+      </text>
+
+      <g transform="translate(230,-4)">
+        <circle cx="10" cy="0" r="7" class="acc-mauve"/>
+        <circle cx="32" cy="0" r="7" class="acc-blue"/>
+        <circle cx="54" cy="0" r="7" class="acc-sapphire"/>
+      </g>
+    </g>
+
+    <g transform="translate(25,75)">
+      <text class="mono text-term" font-size="18" fill="#a6adc8">$ curl -i /availability</text>
+
+      <text class="mono text-term" font-size="18" fill="#a6adc8" y="32">
+        HTTP/1.1 200 OK
+      </text>
+
+      <text x="140" y="120"
+            text-anchor="middle"
+            class="mono"
+            font-size="30"
+            font-weight="800"
+            fill="#a6e3a1">
+        "OPEN TO WORK"
+      </text>
+    </g>
+  </g>
+
+  <text x="1141" y="378" text-anchor="middle" class="mono text-footer">
+    brewed with care
+    <tspan dx="6" fill="#cba6f7" font-size="22" baseline-shift="-0.12em">•</tspan>
+    <tspan dx="6">catppuccin flavored (MIT)</tspan>
+    <tspan dx="6" fill="#cba6f7" font-size="22" baseline-shift="-0.12em">•</tspan>
+    <tspan dx="6">riced for productivity</tspan>
+  </text>
+
+</svg>

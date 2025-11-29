@@ -1,0 +1,58 @@
+<svg width="100%" height="720" viewBox="0 0 1120 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="portfolio/skills.json card">
+  <defs>
+    <pattern id="softGrid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#313244" stroke-width="1" opacity="0.14"/></pattern>
+    <linearGradient id="cornerAccent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#cba6f7" stop-opacity="0.9"/><stop offset="100%" stop-color="#89b4fa" stop-opacity="0.9"/></linearGradient>
+    <linearGradient id="cornerAccent2" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#94e2d5" stop-opacity="0.9"/><stop offset="100%" stop-color="#a6e3a1" stop-opacity="0.9"/></linearGradient>
+  </defs>
+
+  <g transform="translate(0, -14)">
+      <rect x="16" y="16" width="1088" height="688" rx="18" ry="18" fill="#1e1e2e" stroke="#313244" stroke-width="2"/>
+      <path d="M18 36 C18 26.163 25.163 18 34 18 H1086 C1094.837 18 1102 26.163 1102 36 V80 H18 V36 Z" fill="#11111b" opacity="0.4"/>
+      <rect x="18" y="80" width="1084" height="626" rx="0" ry="0" fill="url(#softGrid)" opacity="0.25"/>
+      
+      <path d="M36 22 H150" stroke="url(#cornerAccent)" stroke-width="3" opacity="0.4" />
+      <path d="M36 22 V90" stroke="url(#cornerAccent2)" stroke-width="3" opacity="0.3" />
+      <path d="M1084 706 H970" stroke="url(#cornerAccent)" stroke-width="3" opacity="0.35" />
+      <path d="M1084 706 V530" stroke="url(#cornerAccent2)" stroke-width="3" opacity="0.28" />
+
+      <g transform="translate(1020, 50)">
+        <circle cx="0" cy="0" r="7.5" fill="#cba6f7" stroke="#11111b" stroke-width="1.5" stroke-opacity="0.4"/>
+        <circle cx="25" cy="0" r="7.5" fill="#89b4fa" stroke="#11111b" stroke-width="1.5" stroke-opacity="0.4"/>
+        <circle cx="50" cy="0" r="7.5" fill="#74c7ec" stroke="#11111b" stroke-width="1.5" stroke-opacity="0.4"/>
+      </g>
+
+      <text x="56" y="56" font-family="JetBrains Mono" font-size="17" fill="#cdd6f4" opacity="0.8"><tspan fill="#94e2d5" opacity="1">📁</tspan><tspan dx="8"><tspan fill="#cba6f7">portfolio</tspan>/<tspan fill="#89b4fa" font-weight="500">skills.json</tspan></tspan></text>
+
+      <text x="56" y="130" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#f38ba8">{</tspan></text>
+      
+      <text x="56" y="166" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">"role"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Backend Developer"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+      
+      <text x="56" y="202" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">"skills"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#fab387">{</tspan></text>
+      
+      <text x="56" y="238" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">"main"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">"Python"</tspan><tspan fill="#cdd6f4">,</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"SQL"</tspan><tspan fill="#cdd6f4">,</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Linux"</tspan><tspan fill="#cba6f7">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+      
+      <text x="56" y="274" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">"focus"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">"API Design"</tspan><tspan fill="#cdd6f4">,</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Cloud Infra"</tspan><tspan fill="#cba6f7">]</tspan></text>
+      
+      <text x="56" y="310" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#fab387">}</tspan><tspan fill="#cdd6f4">,</tspan></text>
+      
+      <text x="56" y="346" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">"backend_stack"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#fab387">{</tspan></text>
+
+      <text x="56" y="382" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">"frameworks"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">"Flask"</tspan><tspan fill="#cba6f7">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+
+      <text x="56" y="418" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">"databases"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">"MySQL"</tspan><tspan fill="#cdd6f4">,</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"PostgreSQL"</tspan><tspan fill="#cba6f7">]</tspan><tspan fill="#cdd6f4">,</tspan></text>
+      
+      <text x="56" y="454" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">"tools"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#cba6f7">[</tspan><tspan fill="#f9e2af">"Git"</tspan><tspan fill="#cdd6f4">,</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Bash"</tspan><tspan fill="#cdd6f4">,</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Docker"</tspan><tspan fill="#cdd6f4">,</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Oracle Cloud"</tspan><tspan fill="#cba6f7">]</tspan></text>
+      
+      <text x="56" y="490" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#fab387">}</tspan><tspan fill="#cdd6f4">,</tspan></text>
+      
+      <text x="56" y="526" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#89b4fa">"languages"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#fab387">{</tspan></text>
+      
+      <text x="56" y="562" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">"portuguese"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Native"</tspan><tspan fill="#cdd6f4">,</tspan></text>
+
+      <text x="56" y="598" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan fill="#89b4fa">"english"</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#cdd6f4"> </tspan><tspan fill="#f9e2af">"Fluent (C2 — EF SET)"</tspan></text>
+      
+      <text x="56" y="634" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#cdd6f4">&#160;&#160;</tspan><tspan fill="#fab387">}</tspan></text>
+      
+      <text x="56" y="670" font-family="JetBrains Mono" font-size="22" font-weight="500"><tspan fill="#f38ba8">}</tspan></text>
+  </g>
+</svg>
