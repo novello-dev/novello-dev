@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="https://www.linkedin.com/in/joao-pedro-novello" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/linkedin.svg" alt="LinkedIn" height="64"/></a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
-  <a href="mailto:joao.cunha@proeja.com" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/e-mail.svg" alt="Email" height="64"/></a>
+  <a href="mailto:novello.dev@proton.me" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/e-mail.svg" alt="Email" height="64"/></a>
 </p>
 
 <br>
