@@ -17,10 +17,10 @@
   <a href="https://www.linkedin.com/in/joao-pedro-novello" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/linkedin.svg" alt="LinkedIn" height="64"/></a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   <a href="mailto:novello.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/e-mail.svg" alt="Email" height="64"/></a>
+  <p align="center">
+  <br> <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/stats.svg" width="500" alt="Stats info" />
 </p>
-
 <br>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/novello-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="360" />
   <img src="https://raw.githubusercontent.com/novello-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="360" />
@@ -36,5 +36,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="80%" /> 
   <br>
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/footnote.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/footnote.svg" width="75%" />
 </p>
