@@ -22,6 +22,18 @@
 <br>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/novello-dev/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="360" />
+  <img src="https://raw.githubusercontent.com/novello-dev/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="360" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/novello-dev/github-stats/master/generated/overview.svg#gh-light-mode-only" width="360" />
+  <img src="https://raw.githubusercontent.com/novello-dev/github-stats/master/generated/languages.svg#gh-light-mode-only" width="360" />
+</p>
+
+</div>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="80%" /> 
   <br>
   <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/footnote.svg" width="100%" />
