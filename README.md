@@ -36,5 +36,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="80%" /> 
   <br>
-  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/footnote.svg" width="75%" />
+  <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/footnote.svg" width="80%" />
 </p>
