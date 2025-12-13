@@ -1,0 +1,41 @@
+<svg width="100%" height="132" viewBox="0 0 900 132"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stats loaded">
+  <defs>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.8" result="blur"/>
+      <feColorMatrix type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.85 0"
+        result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.2"
+                    flood-color="#11111b" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <!-- Card -->
+  <rect x="80" y="44" width="740" height="86" rx="18" ry="18"
+        fill="#1e1e2e" filter="url(#shadow)"/>
+  <rect x="80" y="44" width="740" height="86" rx="18" ry="18"
+        fill="none" stroke="#313244" stroke-width="2"/>
+
+  <!-- Texto -->
+  <text x="450" y="91" text-anchor="middle" dominant-baseline="middle"
+        font-family="JetBrains Mono, 'Fira Code', Consolas, monospace"
+        font-size="42" font-weight="800" letter-spacing="1.2"
+        filter="url(#softGlow)">
+
+    <tspan fill="#89b4fa">"stats"</tspan>
+    <tspan fill="#cdd6f4" dx="-28">:</tspan>
+    <tspan fill="#a6e3a1" dx="0">loaded</tspan>
+
+  </text>
+</svg>
