@@ -22,13 +22,7 @@
 <img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/contact_me.svg" width="500" alt="Stats info" />
 <br>
 <br>
-<p align="center">
-  <a href="https://discordapp.com/users/novello-dev" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/discord.svg" alt="Discord" height="64"/></a>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
-  <a href="https://www.linkedin.com/in/joao-pedro-novello" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/linkedin.svg" alt="LinkedIn" height="64"/></a>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
-  <a href="mailto:novello.dev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/e-mail.svg" alt="Email" height="64"/></a>
-</p>
+<p align="center"><a href="https://discordapp.com/users/novello-dev"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/discord.svg" alt="Discord" height="64"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/joao-pedro-novello"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/linkedin.svg" alt="LinkedIn" height="64"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:novello.dev@gmail.com"><img src="https://raw.githubusercontent.com/novello-dev/novello-dev/main/assets/e-mail.svg" alt="Email" height="64"/></a></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="80%" /> 
   <br>
